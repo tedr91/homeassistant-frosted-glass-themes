@@ -84,6 +84,13 @@ It allows you to:
 
 ---
 
+## 📝 Changelog
+
+- [v1.4.0](https://github.com/tedr91/homeassistant-frosted-glass-themes/releases/tag/v1.4.0) (2026-03-17): Updated all theme `background-image` URLs to use the `tedr91/homeassistant-frosted-glass-themes` CDN path.
+- [v1.3.1](https://github.com/tedr91/homeassistant-frosted-glass-themes/releases/tag/v1.3.1) (2026-03-17): Set `RadialGradientBlue.jpg` as the default background for all modes and updated documentation.
+
+---
+
 ## 🖼️ **Screenshots**
 
 ### ☀️ Light Mode: 
