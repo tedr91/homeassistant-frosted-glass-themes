@@ -22,6 +22,7 @@ This theme brings a sophisticated "**Frosted Glass**" aesthetic to your dashboar
 - **Modern Design**: Rounded corners, minimal shadows, and cohesive color palettes. 🛋️
 - **Enhanced UX**: Designed to feel fluid, comfortable, and polished. 🖼️
 - **Lite Editions**: Optional no-blur builds for older/low-end devices. They keep the same semi-transparent, glassy look while improving performance and avoiding dropdown misplacement caused by HA’s blur handling. ⚡
+- **Default Background**: All modes now use `RadialGradientBlue.jpg` by default. 🖼️
 - **Want to Customize? (New!)**: Install Frosted Glass Theme Manager to choose your own color&background! 🎨
 
 ## 🚀 Quick Installation Guide
